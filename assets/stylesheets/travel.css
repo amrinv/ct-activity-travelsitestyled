@@ -259,7 +259,7 @@ footer {
  target the links (anchor <a> tags) inside the element with the id of social-links
   - make sure the text is white and there is no underline
 */
-#social-links > a {
+#social-links a {
   text-decoration: none;
   color: white;
 }
